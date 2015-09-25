@@ -1,0 +1,4 @@
+#este es un programa de prueba
+print welcome
+a = raw_input("ingrese su nombre")
+print a
